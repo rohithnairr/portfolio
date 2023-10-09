@@ -2,7 +2,7 @@
 import React from "react";
 import Image from "next/image";
 import { client } from "../configSanity";
-import imageUrl from "@sanity/image-url";
+
 
 async function getData() {
   const query = `*[_type== 'blogs']{
