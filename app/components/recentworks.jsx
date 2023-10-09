@@ -2,7 +2,7 @@
 import React from "react";
 import Image from "next/image";
 import { client } from "../configSanity";
-import imageUrl from "@sanity/image-url";
+
 import Link from "next/link";
 
 async function getData() {

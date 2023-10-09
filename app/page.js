@@ -1,6 +1,6 @@
 import Image from "next/image";
 import image1 from "./images/image1.png"
-import crowdafrik from "./images/crowdAfrik.png"
+import crowdafrik from "./images/crowdafrik.png"
 import indegene from "./images/indegene.png"
 import techenut from "./images/techenut.png"
 import glass from "./images/glass.png"
